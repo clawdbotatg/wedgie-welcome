@@ -413,7 +413,7 @@ def s_go():
     small("for apps and updates", 96)
 
 
-SLIDES = ((s_ready, 5000), (s_welcome, 2600), (s_wedgie, 3600), (s_inside, 8000), (s_chip, 6000), (s_safe, 3600),
+SLIDES = ((s_ready, 8000), (s_welcome, 2600), (s_wedgie, 3600), (s_inside, 8000), (s_chip, 6000), (s_safe, 3600),
           (s_games, 3600), (s_make, 3600), (s_go, 6000))
 FLIP = 360                              # ms: the screen turns over between slides
 
