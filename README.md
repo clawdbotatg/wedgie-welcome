@@ -12,7 +12,7 @@ your own, and go to wedgie.dev. It loops forever.
 - Joystick left/right: walk. Up or the green button: jump.
 - Red or grey buttons, or pushing the joystick in: wave.
 - Joystick down: a wedgie.
-- Every press moves the slideshow along faster. Leave him alone and he wanders on his own.
+- Every press moves the slideshow along faster. A grey button skips to the next slide (not on the checks). Leave him alone and he wanders on his own.
 
 ## Saves
 
